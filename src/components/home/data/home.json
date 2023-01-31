@@ -1,0 +1,139 @@
+{
+  "shop": {
+    "h2": "Shop With Confidence",
+    "copy": "Because of overwhelming demand combined with the situation we’re all experiencing, delivery delays may occur. We are working hard to process your order and deliver your parts and equipment to you as timely as possible. We thank you for your business, and your patience, as we navigate through these tough times together.",
+    "blocks": [
+      {
+        "icon": "iconShipping",
+        "iconAddClass": "max-w-160",
+        "title": "Fast, Free Shipping",
+        "copy": "Parts orders over $45 ship free.<sup>*</sup> Delivery for standard shipping averages 5-7 business days for equipment and 3-5 days for parts.",
+        "small": "<sup>*</sup> Some exclusions apply. <a href=\"https://www.mtdparts.com/en_US/shipping-returns.html\" style=\"font-size: 10.4px;\">Read full shipping policy</a>",
+        "addClass": ""
+      },
+      {
+        "icon": "iconReturns",
+        "iconAddClass": "max-w-120",
+        "title": "Hassle-Free Parts Returns",
+        "copy": "We’ll make sure you get the right part. We will work with you to ensure you receive the correct replacement part for your machine and that you receive credit for your part return.<sup>*</sup>",
+        "small": "<sup>*</sup> Some exclusions apply. <a href=\"https://www.mtdparts.com/en_US/shipping-returns.html\" style=\"font-size: 10.4px;\">Read full shipping policy</a>",
+        "addClass": ""
+      },
+      {
+        "icon": "iconChat",
+        "iconAddClass": "max-w-120",
+        "title": "Live Chat with Experts",
+        "copy": "Our outdoor power equipment experts are just one click away through Live Chat. Available Mon - Fri 8:30am - 5pm EDT",
+        "small": "Phone support also available: 1-800-269-6215",
+        "addClass": ""
+      }
+    ]
+  },
+
+  "howToGuides": {
+    "h2": "How-To Guides",
+    "blocks": [
+      {
+        "img": "https://www.mtdparts.com/on/demandware.static/-/Sites-mtdparts-Library/default/dw2f30f2b8/knowledge-center/images-mtdparts-com/spring-maintenance-riding-lawn-mower.jpg",
+        "title": "How To Repair the Drive Belt on a Riding Lawn Mower",
+        "copy": "For the do-it-yourself homeowner, here are some step-by-step instructions on how to change a riding lawn mower drive belt.",
+        "addClass": "",
+        "button": {
+          "copy": "Read More",
+          "url": "https://www.mtdparts.com/en_US/knowledge-how-to-change-riding-lawn-mower-drive-belt-repairs.html"
+        }
+      },
+      {
+        "img": "https://www.mtdparts.com/on/demandware.static/-/Sites-mtdparts-Library/default/dwaee986e5/knowledge-center/Trimmer-Line-Replacement-Install-in-Traditional-Bump-Head.png",
+        "title": "How to Install String Trimmer Line in a Traditional Bump Head",
+        "copy": "Learn how to do a trimmer line replacement to prepare for a season of lawn care and maintenance.",
+        "addClass": "",
+        "button": {
+          "copy": "Read More",
+          "url": "https://www.mtdparts.com/en_US/knowledge-trimmer-line-replacement-knowledge.html"
+        }
+      },
+      {
+        "img": "https://www.mtdparts.com/on/demandware.static/-/Sites-mtdparts-Library/default/dwa7a878a4/knowledge-center/Walk-Behind-Lawn-Mower-Blade-Replacement-Instructions.png",
+        "title": "How to Change the Oil in Your Walk-Behind Lawn Mower",
+        "copy": "Routine lawn mower maintenance, like changing your oil, can help extend the life of your machine. Follow these step-by-step instructions on how to change the oil in a walk-behind lawn mower.",
+        "addClass": "",
+        "button": {
+          "copy": "Read More",
+          "url": "https://www.mtdparts.com/en_US/how-to-change-oil-walk-behind-and-push-mower/knowledge-walk-behind-oil-change-maintenance.html"
+        }
+      },
+      {
+        "img": "https://www.mtdparts.com/on/demandware.static/-/Sites-mtdparts-Library/default/dwb45803b0/knowledge-center/Lawn-Mower-Parts-Change-a-Walk-Behind-Lawn-Mower-Air-Filter-from-MTD.png",
+        "title": "Troubleshooting When Your Lawn Mower Will Not Start",
+        "copy": "What to do when your walk-behind or riding lawn mower won't start? Here are some troubleshooting tips to find out what went wrong, what lawn mower parts you need to fix it and if you'll need to take your lawn mower in for professional service.",
+        "addClass": "border-bottom-0",
+        "button": {
+          "copy": "Read More",
+          "url": "https://www.mtdparts.com/en_US/knowledge-lawn-mower-wont-start.html"
+        }
+      }
+    ]
+  },
+
+  "tabs": {
+    "h2": "Shop By...",
+    "blocks": [
+      {
+        "title": "Brand",
+        "active": true
+      },
+      {
+        "title": "Part Type"
+      },
+      {
+        "title": "Machine Type"
+      }
+    ]
+  },
+
+  "supportLinks": {
+    "h2": "Support Quick Links",
+    "blocks": [
+      {
+        "icon": "iconLocator",
+        "iconAddClass": "max-w-120",
+        "title": "Service Locator",
+        "copy": "Coast-to-coast service. Find the location closest to you.",
+        "small": "",
+        "addClass": "",
+        "button": {
+          "copy": "Search",
+          "url": "https://www.mtdparts.com/en_US/servicelocator?showMap=true&horizontalView=true&isForm=true",
+          "addClass": "bg-white"
+        }
+      },
+      {
+        "icon": "iconManual",
+        "iconAddClass": "max-w-160",
+        "title": "Manual Lookup",
+        "copy": "Find product manuals for MTD equipment.",
+        "small": "",
+        "addClass": "",
+        "button": {
+          "copy": "Search",
+          "url": "https://www.mtdparts.com/en_US/operatorsmanuals",
+          "addClass": "bg-white"
+        }
+      },
+      {
+        "icon": "iconKnowledgeCenter",
+        "iconAddClass": "max-w-160",
+        "title": "Knowledge Center",
+        "copy": "Help articles for Outdoor power equipment.",
+        "small": "",
+        "addClass": "border-bottom-0",
+        "button": {
+          "copy": "Search",
+          "url": "https://www.mtdparts.com/en_US/knowledge-center.html",
+          "addClass": "bg-white"
+        }
+      }
+    ]
+  }
+}
